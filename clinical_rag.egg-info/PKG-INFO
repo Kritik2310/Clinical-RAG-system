@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: clinical_rag
+Version: 0.1.0
+Summary: Clinically grounded RAG system with safety, bias checks, and CI tests
+Author: Kriti Kashyap

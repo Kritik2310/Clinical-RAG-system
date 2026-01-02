@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clinical_rag"
+version = "0.1.0"
+description = "Clinically grounded RAG system with safety, bias checks, and CI tests"
+authors = [{ name = "Kriti Kashyap" }]
+
+[tool.setuptools]
+packages = ["clinical_rag"]

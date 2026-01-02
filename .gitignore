@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Virtual environments
+rag/
+
+# Pytest
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Model cache (optional)
+.cache/
+
+#DATA 
+data/
+notes.txt
