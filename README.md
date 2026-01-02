@@ -76,6 +76,16 @@ Automated pytest suite verifies:
 
 ---
 
+##  System Architecture
+
+The diagram below illustrates the **end-to-end clinical RAG pipeline**, including text ingestion, retrieval, evidence validation, bias checks, local LLM rewriting, confidence scoring, and explicit error handling.
+
+<p align="center">
+  <img src="docs/architecture.png" alt="Clinical RAG Architecture" width="900">
+</p>
+
+> This architecture enforces *evidence-only generation* and prevents hallucinations by design.
+---
 ## Build by 
 
 **Kriti Kashyap**  
