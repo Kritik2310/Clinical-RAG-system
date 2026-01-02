@@ -1,6 +1,6 @@
 # Clinical RAG System with Safety & Bias Controls
 
-A **production-oriented Retrieval-Augmented Generation (RAG) system** designed for **clinical guideline analysis**, with strong emphasis on **hallucination prevention, evidence grounding, age-bias detection, and CI/CD safety testing**.
+A production-oriented **Clinical Retrieval-Augmented Generation (RAG) system** designed to answer medical guideline questions using **evidence-only generation**, while preventing hallucinations and age-related bias. The system combines deterministic retrieval, responsible AI safeguards, and CI/CD-driven testing to ensure safe and reliable clinical NLP outputs.
 
 Built using **WHO clinical guidelines** as the knowledge source.
 
